@@ -37,6 +37,12 @@ https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-de
 
 The above URL parameters are also available in the [Docsify-This Advanced Web Page Builder](https://paulhibbitts.github.io/test-docsify-this/?advanced=true).
 
+### UBC Customizations
+
+View a Preconfigured Docsify-This Advanced Web Page Builder with:  
+* [UBC Visual Branding Defaults with Favicon and Custom Sidebar](https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-course-site-sfu/blob/main/home.md&sidebar=true&browser-tab-title=CPT-363&link-color=2d6ec1&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&search=true) ([Preview](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-course-site-sfu/main&homepage=home.md&sidebar=true&browser-tab-title=CPT-363&link-color=2d6ec1&loadSidebar=_sidebar.md&loadNavbar=_navbar.md&search=true))
+* [UBC Canvas Defaults](https://docsify-this.net/?url-field=https://github.com/hibbitts-design/docsify-this-multiple-page-course-site-sfu/blob/main/home.md&link-color=2d6ec1&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&line-height=1.5) ([Preview](https://docsify-this.net/?basePath=https://raw.githubusercontent.com/hibbitts-design/docsify-this-multiple-page-course-site-sfu/main&homepage=home.md&link-color=2d6ec1&font-family=Lato%20Extended,Lato,Helvetica%20Neue,Helvetica,Arial,sans-serif&font-size=1&line-height=1.5))
+
 Docsify-This Examples
 ---
 
